@@ -1,0 +1,7 @@
+[
+  { "id": "bhagavad-gita", "name": "Bhagavad Gita", "emoji": "🕉️", "chapters": 18, "verses": 700 },
+  { "id": "rigveda", "name": "Rigveda", "emoji": "📜", "chapters": 10, "verses": 1028 },
+  { "id": "upanishads", "name": "Upanishads", "emoji": "🪔", "chapters": 108, "verses": 200 },
+  { "id": "ramayana", "name": "Ramayana", "emoji": "🏹", "chapters": 7, "verses": 24000 },
+  { "id": "mahabharata", "name": "Mahabharata", "emoji": "⚔️", "chapters": 18, "verses": 100000 }
+]

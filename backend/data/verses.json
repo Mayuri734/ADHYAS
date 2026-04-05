@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bg-2-47",
+    "grantha": "Bhagavad Gita",
+    "chapter": 2,
+    "verse": 47,
+    "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+    "transliteration": "Karmanye vadhikaraste Ma Phaleshu Kadachana, Ma Karmaphalaheturbhurma Te Sangostvakarmani",
+    "translation": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.",
+    "meaning": "This verse teaches the philosophy of detached action — do your work wholeheartedly without anxiety about outcomes. Focus on effort, not results.",
+    "tags": ["karma", "duty", "action", "detachment"]
+  },
+  {
+    "id": "bg-4-7",
+    "grantha": "Bhagavad Gita",
+    "chapter": 4,
+    "verse": 7,
+    "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+    "transliteration": "Yada Yada Hi Dharmasya Glanir Bhavati Bharata, Abhyutthanam Adharmasya Tadatmanam Srijamyaham",
+    "translation": "Whenever and wherever there is a decline in righteousness, O Arjuna, at that time I manifest myself on earth.",
+    "meaning": "The Divine reappears in every age to restore balance. This gives us assurance that the universe has a self-correcting, purposeful nature.",
+    "tags": ["dharma", "divine", "righteousness", "avatar"]
+  },
+  {
+    "id": "bg-18-66",
+    "grantha": "Bhagavad Gita",
+    "chapter": 18,
+    "verse": 66,
+    "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥",
+    "transliteration": "Sarva-dharman parityajya mam ekam saranam vraja, Aham tvam sarva-papebhyo moksayisyami ma sucah",
+    "translation": "Abandon all varieties of dharmas and simply surrender unto Me. I shall deliver you from all sinful reactions; do not fear.",
+    "meaning": "The ultimate teaching of surrender — release all burdens, trust the divine, and find liberation. The culmination of the Gita's teachings.",
+    "tags": ["surrender", "moksha", "liberation", "faith"]
+  },
+  {
+    "id": "bg-2-20",
+    "grantha": "Bhagavad Gita",
+    "chapter": 2,
+    "verse": 20,
+    "sanskrit": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।\nअजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥",
+    "transliteration": "Na jayate mriyate va kadachin, nayam bhutva bhavita va na bhuyah",
+    "translation": "The soul is never born nor dies at any time. It is unborn, eternal, ever-existing, and primeval. It is not slain when the body is slain.",
+    "meaning": "The immortality of the soul — beyond birth and death. We are not our bodies; our true self is eternal consciousness.",
+    "tags": ["atman", "soul", "immortality", "consciousness"]
+  },
+  {
+    "id": "rig-1-1-1",
+    "grantha": "Rigveda",
+    "chapter": 1,
+    "verse": 1,
+    "sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम्।\nहोतारं रत्नधातमम्॥",
+    "transliteration": "Agnim ile purohitam yajnasya devam ritvijam, Hotaram ratnadhatamam",
+    "translation": "I praise Agni, the household priest, the divine minister of the yajna, the one who invokes the gods and brings the greatest treasure.",
+    "meaning": "The first verse of the Rigveda invokes Agni, the sacred fire, as a divine intermediary between humans and the cosmos.",
+    "tags": ["agni", "fire", "yajna", "prayer"]
+  },
+  {
+    "id": "up-iso-1",
+    "grantha": "Upanishads",
+    "chapter": 1,
+    "verse": 1,
+    "sanskrit": "ॐ पूर्णमदः पूर्णमिदम् पूर्णात् पूर्णमुदच्यते।\nपूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते॥",
+    "transliteration": "Om Purnamadah Purnamidam Purnat Purnamudachyate, Purnasya Purnamdaya Purnamevavashishyate",
+    "translation": "That is whole, this is whole. From that whole, this whole arose. Taking wholeness from wholeness, what remains is still whole.",
+    "meaning": "The nature of Brahman — infinite, complete, and undivided. Creation does not diminish the divine source; completeness pervades all existence.",
+    "tags": ["brahman", "wholeness", "infinity", "creation"]
+  }
+]
